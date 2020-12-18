@@ -103,6 +103,8 @@ alias i3config="vim ~/.config/i3/config"
 alias zshrc="vim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 
+alias cda="cd ~/.config/awesome"
+
 neofetch
 
 DRACULA_DISPLAY_CONTEXT=1

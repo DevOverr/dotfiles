@@ -32,6 +32,8 @@ filetype plugin indent on    " required
 syntax enable
 colorscheme dracula
 set number
+set tabstop=4
+set expandtab
 
 if &term =~ '256color'
     " Disable Background Color Erase (BCE) so that color schemes
